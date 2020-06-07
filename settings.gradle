@@ -1,0 +1,3 @@
+include ':dependencies'
+rootProject.name='Plash'
+include ':app'

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Plash</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="menu_numbers">Numbers</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_note">Add Note</string>
+    <string name="menu_notes">Notes</string>
+    <string name="add">Add</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="get_new_fact">Get New Fact</string>
+    <string name="label_login">login</string>
+    <string name="other_ways">other ways</string>
+    <string name="email">Email</string>
+    <string name="menu_music">Music</string>
+    <string name="menu_photos">Photos</string>
+    <string name="title_photos">Photos</string>
+    <string name="title_search">Search</string>
+    <string name="title_collections">Collections</string>
+    <string name="visit">visit</string>
+    <string name="share">Share</string>
+    <string name="save">Save</string>
+    <string name="download_image">Download Image</string>
+</resources>
